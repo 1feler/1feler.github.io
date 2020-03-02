@@ -1161,6 +1161,7 @@ section.lazy-placeholder:after {
 .cid-rRZFBWU611 .price-figure {
   font-weight: 700;
   color: #232323;
+  text-align: center;
 }
 .cid-rRZFBWU611 .price-value {
   font-weight: 700;
@@ -1170,4 +1171,7 @@ section.lazy-placeholder:after {
   .cid-rRZFBWU611 .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-rRZFBWU611 .plan-title {
+  text-align: center;
 }
